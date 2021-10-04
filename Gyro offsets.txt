@@ -1,0 +1,91 @@
+1 LAP
+x_avg_read: -1042.72 x_avg_offset: 2492.7639999999983
+y_avg_read: -484.78 y_avg_offset: 1148.2006250000006
+z_avg_read: 315.02 z_avg_offset: -747.749625
+x_avg_read: 8.16 x_avg_offset: -18.134000000000004
+y_avg_read: -16.79 y_avg_offset: 37.26556250000001
+z_avg_read: 8.84 z_avg_offset: -19.666500000000003
+2 LAP
+x_avg_read: -0.12 x_avg_offset: 2605.9022499999974
+y_avg_read: 0.18 y_avg_offset: 1211.4741250000009
+z_avg_read: 0.32 z_avg_offset: -788.9795000000009
+x_avg_read: -0.33 x_avg_offset: -20.171062499999998
+y_avg_read: -0.19 y_avg_offset: 41.878312499999936
+z_avg_read: 0.13 z_avg_offset: -22.047937500000003
+3 LAP
+x_avg_read: 0.06 x_avg_offset: 2605.896875
+y_avg_read: 0.46 y_avg_offset: 1211.5818750000021
+z_avg_read: 1.2 z_avg_offset: -789.5755000000021
+x_avg_read: 0.16 x_avg_offset: -20.17725
+y_avg_read: 0.13 y_avg_offset: 41.98556249999997
+z_avg_read: -0.13 z_avg_offset: -22.064312500000018
+4 LAP
+x_avg_read: 0.48 x_avg_offset: 2606.015499999997
+y_avg_read: -0.4 y_avg_offset: 1211.5635000000036
+z_avg_read: -0.76 z_avg_offset: -789.708750000003
+x_avg_read: 0.03 x_avg_offset: -20.297312499999972
+y_avg_read: -0.06 y_avg_offset: 41.857375000000005
+z_avg_read: 0.02 z_avg_offset: -22.219375000000017
+5 LAP
+x_avg_read: -0.24 x_avg_offset: 2605.7334999999975
+y_avg_read: 0.28 y_avg_offset: 1211.5282500000028
+z_avg_read: 0.18 z_avg_offset: -789.3833750000023
+x_avg_read: 0.37 x_avg_offset: -20.37143749999996
+y_avg_read: -0.05 y_avg_offset: 42.01443749999999
+z_avg_read: -0.09 z_avg_offset: -22.10581250000004
+6 LAP
+x_avg_read: -0.12 x_avg_offset: 2605.808249999996
+y_avg_read: -0.64 y_avg_offset: 1211.5890000000034
+z_avg_read: -0.22 z_avg_offset: -788.7368750000022
+x_avg_read: -0.34 x_avg_offset: -20.657624999999953
+y_avg_read: 0.23 y_avg_offset: 41.8849375
+z_avg_read: -0.04 z_avg_offset: -22.018250000000045
+7 LAP
+x_avg_read: 1.0 x_avg_offset: 2606.101249999996
+y_avg_read: 0.64 y_avg_offset: 1211.5925000000045
+z_avg_read: -0.44 z_avg_offset: -789.1612500000016
+x_avg_read: 0.07 x_avg_offset: -20.073812499999956
+y_avg_read: 0.12 y_avg_offset: 41.82899999999997
+z_avg_read: 0.07 z_avg_offset: -22.134562500000033
+8 LAP
+x_avg_read: -1.46 x_avg_offset: 2605.8203749999902
+y_avg_read: -0.38 y_avg_offset: 1211.6551250000066
+z_avg_read: 0.48 z_avg_offset: -788.322500000001
+x_avg_read: 0.02 x_avg_offset: -20.039124999999935
+y_avg_read: -0.2 y_avg_offset: 41.829499999999996
+z_avg_read: -0.04 z_avg_offset: -22.113000000000028
+9 LAP
+x_avg_read: 0.46 x_avg_offset: 2605.9823749999887
+y_avg_read: 0.04 y_avg_offset: 1211.5142500000084
+z_avg_read: -0.48 z_avg_offset: -789.212
+x_avg_read: -0.14 x_avg_offset: -19.907624999999943
+y_avg_read: 0.26 y_avg_offset: 41.55487500000003
+z_avg_read: 0.18 z_avg_offset: -22.080375000000064
+10 LAP
+x_avg_read: 0.04 x_avg_offset: 2605.705749999989
+y_avg_read: 0.08 y_avg_offset: 1211.4340000000097
+z_avg_read: 0.28 z_avg_offset: -787.8327499999998
+x_avg_read: -0.09 x_avg_offset: -19.744062499999917
+y_avg_read: -0.11 y_avg_offset: 41.55956250000002
+z_avg_read: -0.04 z_avg_offset: -22.232500000000044
+11 LAP
+x_avg_read: -0.2 x_avg_offset: 2606.6167499999847
+y_avg_read: -0.54 y_avg_offset: 1211.4596250000104
+z_avg_read: 0.4 z_avg_offset: -788.5344999999996
+x_avg_read: -0.12 x_avg_offset: -19.796749999999943
+y_avg_read: 0.05 y_avg_offset: 41.772812499999944
+z_avg_read: -0.06 z_avg_offset: -21.993375000000075
+12 LAP
+x_avg_read: 0.0 x_avg_offset: 2606.154999999984
+y_avg_read: 0.2 y_avg_offset: 1211.1587500000094
+z_avg_read: -0.34 z_avg_offset: -788.934624999999
+x_avg_read: -0.07 x_avg_offset: -19.771437499999944
+y_avg_read: 0.05 y_avg_offset: 41.451562499999966
+z_avg_read: 0.02 z_avg_offset: -22.024125000000076
+13 LAP
+x_avg_read: 0.9 x_avg_offset: 2605.316624999983
+y_avg_read: 0.62 y_avg_offset: 1211.577375000009
+z_avg_read: -0.66 z_avg_offset: -787.9276249999986
+x_avg_read: 0.11 x_avg_offset: -19.633062499999955
+y_avg_read: -0.18 y_avg_offset: 41.51537499999995
+z_avg_read: -0.03 z_avg_offset: -22.016187500000072
