@@ -1,3 +1,6 @@
+__author__ = 'Abhinav Kulkarni'
+
+
 from itertools import count
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
